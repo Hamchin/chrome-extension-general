@@ -1,4 +1,4 @@
-# Chrome-Extension-General
+# Chrome Extension for General
 
 ## Background
 
